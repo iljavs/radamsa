@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yesmar/radamsa"
+	"github.com/iljavs/radamsa"
 )
 
 var (
